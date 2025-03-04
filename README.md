@@ -1,5 +1,7 @@
 # AceMDCAT GPT
 
+**Made by Eesha Tariq**  
+**Student Name:** Eesha Tariq
 
 ### The AI Ecosystem Revolutionizing MDCAT Preparation with Syllabus-Perfect Precision
 
@@ -10,7 +12,7 @@
 ## Description
 AceMDCAT GPT is an AI-powered chatbot designed to help Pakistani students prepare for the MDCAT exam with syllabus-aligned precision. It provides accurate answers, step-by-step physics calculations, personalized learning, and real-time MCQ practice.
 
-## Features
+## Features 🚀
 - **Syllabus-Perfect Precision**: Trained on PTB and Federal Board books.
 - **Physics Calculation Engine**: Provides step-by-step numerical solutions.
 - **AI-Powered Personalization**: Adapts to student performance.
@@ -19,12 +21,12 @@ AceMDCAT GPT is an AI-powered chatbot designed to help Pakistani students prepar
 - **Adaptive Difficulty Levels**: Adjusts based on student progress.
 - **Voice-Powered Query System (Upcoming)**: Enables intuitive learning.
 
-## Tech Stack
+## Tech Stack 🛠️
 - **Language**: Python
 - **Frameworks**: TensorFlow, OpenAI GPT
 - **Deployment**: Web-based platform (future mobile app support)
 
-## Installation
+## Installation 📥
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/AceMDCAT-GPT.git
@@ -36,25 +38,25 @@ cd AceMDCAT-GPT
 pip install -r requirements.txt
 ```
 
-## Usage
+## Usage ▶️
 ```bash
 python main.py
 ```
 
-## Contribution
+## Contribution 🤝
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request.
 
-## Development Process
-AceMDCAT GPT follows an Agile development methodology, ensuring continuous improvement and adaptation based on user feedback. The key phases include:
-1. **Requirement Analysis**: Identifying student needs and MDCAT syllabus alignment.
-2. **Data Collection & Processing**: Structuring PTB/Federal Board content for AI training.
-3. **Model Training & Fine-Tuning**: Using transformer-based NLP models for accurate responses.
-4. **System Development**: Building the chatbot interface and backend functionality.
-5. **Testing & Deployment**: Ensuring accuracy, efficiency, and scalability before release.
-6. **User Feedback & Updates**: Incorporating real-time feedback for continuous enhancement.
+## Development Process 🔄
+AceMDCAT GPT follows an Agile development methodology, ensuring continuous improvement and adaptation based on user feedback. 🚀 The key phases include:
+1. 📝 **Requirement Analysis**: Identifying student needs and MDCAT syllabus alignment.
+2. 📊 **Data Collection & Processing**: Structuring PTB/Federal Board content for AI training.
+3. 🤖 **Model Training & Fine-Tuning**: Using transformer-based NLP models for accurate responses.
+4. 🏗️ **System Development**: Building the chatbot interface and backend functionality.
+5. ✅ **Testing & Deployment**: Ensuring accuracy, efficiency, and scalability before release.
+6. 🔄 **User Feedback & Updates**: Incorporating real-time feedback for continuous enhancement.
 
-## Open Source
+## Open Source 🌍
 AceMDCAT GPT is an open-source project, encouraging contributions from developers and AI enthusiasts to improve its accuracy and functionality. Join the community and help enhance AI-driven education!
 
-## License
+## License 📜
 MIT License
