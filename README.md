@@ -1,7 +1,5 @@
 # AceMDCAT GPT
 
-**Made by Eesha Tariq**  
-**Student Name:** Eesha Tariq
 
 ### The AI Ecosystem Revolutionizing MDCAT Preparation with Syllabus-Perfect Precision
 
