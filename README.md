@@ -1,4 +1,4 @@
-# AceMDCAT GPT
+# AceMed AI
 
 **Made by Eesha Tariq**  
 **Student Name:** Eesha Tariq
