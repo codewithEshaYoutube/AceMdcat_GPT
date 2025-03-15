@@ -1,5 +1,7 @@
 # AceMed AI
 
+![AceMed AI Logo](AceMed_AI_logo.jpg)
+
 **Developed by Eesha Tariq**  
 **Project Name:** AceMed AI – AI-Powered MDCAT Preparation  
 
