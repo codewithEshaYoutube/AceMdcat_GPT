@@ -1,6 +1,9 @@
 # AceMed AI
+<div style="display: flex; justify-content: center;">
+  <img src="AceMed AI logo.jpg" width="300" alt="AceMed AI Logo"/>
+</div>
 
-![AceMed AI Logo](AceMed_AI_logo.jpg)
+
 
 **Developed by Eesha Tariq**  
 **Project Name:** AceMed AI – AI-Powered MDCAT Preparation  
@@ -9,7 +12,7 @@
 
 ## **Academic Information**
 **Course:** Software Construction and Development  
-**Institution:** [Your University Name]  
+**Institution:** [The Islamia University of Bahawalpur]  
 **Professor:** Dr. Daler  
 **Semester:** 5th Semester  
 
